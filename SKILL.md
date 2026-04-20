@@ -1,7 +1,7 @@
 ---
 name: clawhub-search
 slug: skylv-clawhub-search
-version: 1.0.0
+version: 1.0.2
 description: "ClawHub Skill Discovery and Search. Find, browse, and install OpenClaw Skills from ClawHub marketplace. Triggers: search skills, find skills, clawhub, install skill, browse skills."
 author: SKY-lv
 license: MIT
